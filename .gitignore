@@ -1,0 +1,6 @@
+.git/
+supervised/cnn/dataset/
+unsupervised/rbm/ml-100k/
+unsupervised/rbm/ml-1m/
+unsupervised/ae/ml-100k/
+unsupervised/ae/ml-1m/
